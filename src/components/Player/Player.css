@@ -1,0 +1,19 @@
+.Player {
+    background-color: #e0e0e0;
+    /* Cor de fundo do jogador */
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+.Player h2 {
+    margin-bottom: 5px;
+    color: #333333;
+    /* Cor do nome do jogador */
+}
+
+.Player p {
+    margin: 0;
+    color: #666666;
+    /* Cor do texto */
+}
